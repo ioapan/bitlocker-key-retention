@@ -1,0 +1,16 @@
+# Generated code — this repo publishes design + build workflow only
+/code/
+/src/
+/deploy/
+
+# Local artifacts
+*.local.json
+*.parameters.local.json
+.env
+*.pfx
+*.key
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
